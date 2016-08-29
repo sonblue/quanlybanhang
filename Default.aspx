@@ -186,6 +186,43 @@
                     </div>
                 </div>
 
+  
+
+
+     <div class="maincontent-area">
+                    <div class="zigzag-bottom"></div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="latest-product">
+                                    <div class="product-carousel">
+                                        <div class="single-product">
+                                            <div class="product-f-image">
+                                                <img src="Images/product-1.jpg" alt="">
+                                                <div class="product-hover">
+                                                    <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Thêm</a>
+                                                    <a id="A3" runat="server" href="~/ChiTietSanPham.aspx" class="view-details-link"><i class="fa fa-link"></i> Chi Tiết</a>
+                                                </div>
+                                            </div>
+                                
+                                            <h2><a id="A4" runat="server" href="~/ChiTietSanPham.aspx">iphone7</a></h2>
+                                
+                                            <div class="product-carousel-price">
+                                                <ins>30.000.000</ins> <del>1.000.000</del>
+                                            </div> 
+                                        </div>
+                                       
+                                        
+                                       
+                                       
+                                                    
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
                  <div class="brands-area">
                     <div class="zigzag-bottom"></div>
